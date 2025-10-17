@@ -12,7 +12,7 @@ will itself consist of a list with three items (Task name, Creation date and due
 In in addition to the above, a user should be able to retrive the current list of items
 and display these in the terminal window.
 
-Additiona challenge:
+Additional challenge:
 
 Create, when the program opens, a username and password challenge.
 You should create a hard-coding example user in your code, and make a note of the
